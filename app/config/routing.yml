@@ -1,0 +1,4 @@
+Weather:
+    resource: "@CorvusWeatherBundle/Controller"
+    type:     annotation
+    prefix:   /

@@ -1,0 +1,7 @@
+
+services:
+   nfq.weather:
+     class: Corvus\WeatherBundle\Temperature\Temperature
+
+
+
